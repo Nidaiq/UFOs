@@ -63,7 +63,6 @@ function updateFilters() {
       // rows where the `datetime` value matches the filter value
      Object.entries(trackFilters).forEach(([key, value])=> {
       filterData = filterData.filter(row => row[key] === value);
-      console.log(key + " " + value);
     });
     
   
