@@ -25,7 +25,7 @@ There are a few drawbacks of this page.  Some of them are listed below:
 
 - The design is not very visual.  So, the drawback of this design is that the website could have been made more interactive and displayed the data in other manner (maybe as tags on a map to show sightings on the same day).
 
-### Additional recommendations for future development
+## Additional recommendations for future development
 
 Some of the recommendations are stated below:
 
